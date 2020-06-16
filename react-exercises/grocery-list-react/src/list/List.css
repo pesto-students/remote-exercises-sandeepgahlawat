@@ -1,0 +1,23 @@
+h4{
+    color: white;
+}
+
+li{
+    margin:10px
+}
+
+.list-item{
+    max-width: 50%;
+    padding:1px;
+    border-radius: 3px;
+    background-color: black;
+    cursor: pointer;
+}
+
+.list-item-selected{
+    max-width: 50%;
+    padding:1px;
+    border-radius: 3px;
+    background-color: red;
+    cursor: pointer;
+}
